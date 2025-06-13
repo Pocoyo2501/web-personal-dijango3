@@ -1,2 +1,2 @@
-pillow==7.0.2
-djando==3.0.7
+pillow==11.1.0
+djando==5.2.1
